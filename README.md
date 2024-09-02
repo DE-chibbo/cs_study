@@ -5,5 +5,5 @@
 - 김준영 : https://woolen-soda-2a4.notion.site/1-dc8c517b7ae34f2dbb9ca8a8767a5b1c
 - 신예진 : https://alder-universe-36e.notion.site/VPC-Virtual-Private-Cloud-d5bbc920fb41444d9596f626727c2255?pvs=4
 - 이주영 :
-- 정도원 :
+- 정도원 : https://hushed-vinyl-087.notion.site/CS-17e930ca27fd4b2b94ced9735ae28dc1?pvs=4
 - 정승현 :
