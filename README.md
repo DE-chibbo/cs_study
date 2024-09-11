@@ -7,3 +7,11 @@
 - 이주영 :
 - 정도원 : https://hushed-vinyl-087.notion.site/CS-17e930ca27fd4b2b94ced9735ae28dc1?pvs=4
 - 정승현 :
+
+### 2주차: 데이터 웨어하우스
+
+- 김준영 : https://woolen-soda-2a4.notion.site/2-1e87e5e89f7d4dcfa35dc4a3aa551c0b
+- 신예진 :
+- 이주영 :
+- 정도원 :
+- 정승현 :
