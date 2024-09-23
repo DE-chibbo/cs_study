@@ -11,7 +11,11 @@
 ### 2주차: 데이터 웨어하우스
 
 - 김준영 : https://woolen-soda-2a4.notion.site/2-1e87e5e89f7d4dcfa35dc4a3aa551c0b
-- 신예진 :
+- 신예진 : 
+  - Redshift : https://alder-universe-36e.notion.site/Amazon-Redshift-4a9176d4ceb04c249ec4eb768b8296a5?pvs=4
+  - Bigquery : https://alder-universe-36e.notion.site/Google-Bigquery-7ca04676df954eac83fb578f8075bc22?pvs=4
+  - 구축 사례 : https://alder-universe-36e.notion.site/55bc7313e77e4425b05f527e3d8cea6f?pvs=4
+  - 구축 사례를 통해 배운 데이터 웨어하우스별 주안점 : https://alder-universe-36e.notion.site/8b74ebe6134d44fea4e87bc10c11b9b7?pvs=4
 - 이주영 :
 - 정도원 :
 - 정승현 :
